@@ -1,0 +1,2 @@
+{"level":"error","message":"Error performing multiply: Invalid input numbers","service":"calculator-microservice"}
+{"level":"error","message":"Error performing square root: Invalid input number","service":"calculator-microservice"}

@@ -1,0 +1,13 @@
+{"level":"info","message":"Operation performed: New add with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New subtract with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New multiply with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"error","message":"Error performing multiply: Invalid input numbers","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New multiply with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New add with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New modulo with numbers 10 and 5","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New modulo with numbers 10 and 8","service":"calculator-microservice"}
+{"level":"info","message":"Operation performed: New exponentiation with numbers 10 and 8","service":"calculator-microservice"}
+{"level":"error","message":"Error performing square root: Invalid input number","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation performed on number 10","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation performed on number 10","service":"calculator-microservice"}
+{"level":"info","message":"Square root operation performed on number 100","service":"calculator-microservice"}
